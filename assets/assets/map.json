@@ -1,0 +1,120 @@
+{
+   
+      "swoyambhunath": {
+        "lat": 27.7144,
+        "lng": 85.2893,
+        "dist": 5
+      },
+      "boudhanath": {
+        "lat": 27.7216,
+        "lng": 85.3616,
+        "dist": 3
+      },
+      "pashupatinath": {
+        "lat": 27.7100,
+        "lng": 85.3484,
+        "dist": 2
+      },
+      "kathmandu_durbar_square": {
+        "lat": 27.7049,
+        "lng": 85.3076,
+        "dist": 4
+      },
+      "patan_durbar_square": {
+        "lat": 27.6742,
+        "lng": 85.3240,
+        "dist": 6
+      },
+      "bhaktapur_durbar_square": {
+        "lat": 27.6722,
+        "lng": 85.4274,
+        "dist": 7
+      },
+      "thamel": {
+        "lat": 27.7154,
+        "lng": 85.3120,
+        "dist": 1
+      },
+      "garden_of_dreams": {
+        "lat": 27.7118,
+        "lng": 85.3198,
+        "dist": 2
+      },
+      "budhanilkantha_temple": {
+        "lat": 27.7609,
+        "lng": 85.3453,
+        "dist": 8
+      },
+      "bhairavnath_temple": {
+        "lat": 27.6655,
+        "lng": 85.4302,
+        "dist": 6
+      },
+      "kumari_goddess_house": {
+        "lat": 27.6710,
+        "lng": 85.4290,
+        "dist": 7
+      },
+      "sundarijal": {
+        "lat": 27.7812,
+        "lng": 85.4396,
+        "dist": 10
+      },
+      "chandragiri_hill": {
+        "lat": 27.6713,
+        "lng": 85.2662,
+        "dist": 12
+      },
+      "nagarkot": {
+        "lat": 27.9680,
+        "lng": 85.6296,
+        "dist": 20
+      },
+      "dakshinkali_temple": {
+        "lat": 27.5970,
+        "lng": 85.2782,
+        "dist": 14
+      },
+      "panauti": {
+        "lat": 27.5909,
+        "lng": 85.5241,
+        "dist": 22
+      },
+      "pharping": {
+        "lat": 27.6156,
+        "lng": 85.2636,
+        "dist": 15
+      },
+      "tansen": {
+        "lat": 27.8668,
+        "lng": 83.5545,
+        "dist": 45
+      },
+      "lumbini": {
+        "lat": 27.4840,
+        "lng": 83.2760,
+        "dist": 300
+      },
+      "pokhara": {
+        "lat": 28.2096,
+        "lng": 83.9856,
+        "dist": 200
+      },
+      "bandipur": {
+        "lat": 27.9434,
+        "lng": 84.4224,
+        "dist": 150
+      },
+      "gorkha": {
+        "lat": 28.2757,
+        "lng": 84.7287,
+        "dist": 100
+      },
+      "janakpur": {
+        "lat": 26.7100,
+        "lng": 85.9266,
+        "dist": 250
+      }
+    
+  }
+  
