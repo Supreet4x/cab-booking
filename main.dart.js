@@ -12369,11 +12369,12 @@ a2C:function a2C(a){this.a=a},
 aXd(){return new A.AI(new A.afQ(),A.w(t.K,t.Qu))},
 apC:function apC(a,b){this.a=a
 this.b=b},
-BF:function BF(a,b,c,d){var _=this
+BF:function BF(a,b,c,d,e){var _=this
 _.e=a
 _.cx=b
 _.db=c
-_.a=d},
+_.R8=d
+_.a=e},
 afQ:function afQ(){},
 afT:function afT(){},
 GF:function GF(a){var _=this
@@ -53957,7 +53958,7 @@ n=o.e
 o=o.cx
 r=q.gaeB()
 q.a.toString
-return new A.F0(p,p,p,new A.avP(),p,p,p,p,p,n,B.LO,p,p,p,B.J_,q.gaeK(),o,p,B.SV,s,p,r,p,p,B.o_,!1,!1,!1,!1,q.gaec(),!0,p,p,p,new A.qj(q,t.bT))},
+return new A.F0(p,p,p,new A.avP(),p,p,p,p,p,n,B.LO,p,p,p,B.J_,q.gaeK(),o,p,B.SV,s,p,r,p,p,B.o_,!1,!1,!1,!1,q.gaec(),!1,p,p,p,new A.qj(q,t.bT))},
 K(a){var s,r=null,q=A.nD(!1,!1,this.a7x(a),r,r,r,r,!0,r,r,new A.avQ(),r,r,r)
 this.a.toString
 s=this.d
@@ -94160,7 +94161,7 @@ break
 case 1:return A.C(q,r)}})
 return A.D($async$md,r)}}
 A.OH.prototype={
-K(a){return new A.BF(B.Ri,"Lujo",A.EC(null,A.aUd(B.a5,B.M1),!0),null)}}
+K(a){return new A.BF(B.Ri,"Lujo",A.EC(null,A.aUd(B.a5,B.M1),!0),!1,null)}}
 A.Rn.prototype={
 Mw(){var s=t.N,r=t.z
 return A.O(["swoyambhunath",A.O(["lat",27.7144,"lng",85.2893,"dist",5],s,r),"boudhanath",A.O(["lat",27.7216,"lng",85.3616,"dist",3],s,r),"pashupatinath",A.O(["lat",27.71,"lng",85.3484,"dist",2],s,r),"kathmandu_durbar_square",A.O(["lat",27.7049,"lng",85.3076,"dist",4],s,r),"patan_durbar_square",A.O(["lat",27.6742,"lng",85.324,"dist",6],s,r),"bhaktapur_durbar_square",A.O(["lat",27.6722,"lng",85.4274,"dist",7],s,r),"thamel",A.O(["lat",27.7154,"lng",85.312,"dist",1],s,r),"garden_of_dreams",A.O(["lat",27.7118,"lng",85.3198,"dist",2],s,r),"budhanilkantha_temple",A.O(["lat",27.7609,"lng",85.3453,"dist",8],s,r),"bhairavnath_temple",A.O(["lat",27.6655,"lng",85.4302,"dist",6],s,r),"kumari_goddess_house",A.O(["lat",27.671,"lng",85.429,"dist",7],s,r),"sundarijal",A.O(["lat",27.7812,"lng",85.4396,"dist",10],s,r),"chandragiri_hill",A.O(["lat",27.6713,"lng",85.2662,"dist",12],s,r),"nagarkot",A.O(["lat",27.968,"lng",85.6296,"dist",20],s,r),"dakshinkali_temple",A.O(["lat",27.597,"lng",85.2782,"dist",14],s,r),"panauti",A.O(["lat",27.5909,"lng",85.5241,"dist",22],s,r),"pharping",A.O(["lat",27.6156,"lng",85.2636,"dist",15],s,r),"tansen",A.O(["lat",27.8668,"lng",83.5545,"dist",45],s,r),"lumbini",A.O(["lat",27.484,"lng",83.276,"dist",300],s,r),"pokhara",A.O(["lat",28.2096,"lng",83.9856,"dist",200],s,r),"bandipur",A.O(["lat",27.9434,"lng",84.4224,"dist",150],s,r),"gorkha",A.O(["lat",28.2757,"lng",84.7287,"dist",100],s,r),"janakpur",A.O(["lat",26.71,"lng",85.9266,"dist",250],s,r)],s,t.a)}}
